@@ -1,6 +1,6 @@
 # About me
 
-🔭 I’m currently working on Beginner level end2end generative ai projects, hopefully using open source llms (huggingface, google's gemini, meta's ollama etc).
+🔭 I’m currently working on Beginner level end2end generative ai projects, hopefully using open source llms
 
 🌱 I’m currently learning Generative AI Tools and Frameworks.
 
