@@ -1,17 +1,17 @@
-# About me
+About Me
 
-🔭 I’m currently working on Beginner level end2end generative ai projects, hopefully using open source llms
+🔭 Penultimate-year Aerospace Engineering student at NTU Singapore, passionate about Guidance, Navigation & Control (GNC) and autonomous systems for aerospace applications.
 
-🌱 I’m currently learning Generative AI Tools and Frameworks.
+🌱 Currently developing skills in control systems, path planning, multi-agent navigation, and aerospace simulation tools.
 
-👯 I’m looking to collaborate on LLM Apps.
+👯 Interested in collaborating on projects involving autonomous vehicle control, UAV navigation, and intelligent aerospace systems.
 
-🤔 I’m looking for help with Generative AI Engineer Roadmap/Journey.
+🤔 Open to mentorship and guidance on career development in aerospace engineering and autonomous systems.
 
-💬 Ask me about             .. Well I dont think I'm qualified enough😅(impostor syndrome's got me!)
+💬 Ask me about aerospace engineering, control systems, GNC, and applied robotics.
 
-📫 How to reach me: 00971503156909, 006593918298
+📫 Contact: +971503156909, +6593918298
 
 😄 Pronouns: He/him
 
-⚡ Fun fact: Im a Penultimate Year Aerospace Engineering Student at NTU Singapore, who is weird enough (and probably brave enough😅) to transition into AI.
+⚡ Fun fact: Bridging aerospace fundamentals with practical autonomous systems to explore next-generation navigation and control solutions.
