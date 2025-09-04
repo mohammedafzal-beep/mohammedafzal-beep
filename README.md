@@ -10,7 +10,7 @@ About Me
 
 💬 Ask me about aerospace engineering, control systems, GNC, and applied robotics.
 
-📫 Contact: +971503156909, +6593918298
+📫 Contact: +6593918298
 
 😄 Pronouns: He/him
 
