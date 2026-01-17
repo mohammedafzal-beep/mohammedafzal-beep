@@ -1,6 +1,6 @@
 About Me
 
-🔭 Penultimate-year Aerospace Engineering student at NTU Singapore, passionate about Guidance, Navigation & Control (GNC) and autonomous systems for aerospace applications.
+🔭 Final-year Aerospace Engineering student at NTU Singapore
 
 🌱 Currently developing skills in control systems, path planning, multi-agent navigation, and aerospace simulation tools.
 
